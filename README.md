@@ -3,7 +3,7 @@
 ## Project info
 
 
-teste tedteaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+teste tedteaaaaaaaaaaaaaaaaaaaaaaaaaaaaadwadawdwadwadwawddaw
 **URL**: https://lovable.dev/projects/cc738189-cab8-4c30-a1d6-e2fb4c4f0eb3
 
 ## How can I edit this code?
