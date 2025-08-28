@@ -1,6 +1,6 @@
-import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Code, Palette, Users, Lightbulb } from 'lucide-react';
+import { Card, CardContent } from '@/components/ui/card';
+import { Code, Lightbulb, Palette, Users } from 'lucide-react';
 
 const About = () => {
   return (
@@ -55,7 +55,7 @@ const About = () => {
               <CardContent className="p-6">
                 <h3 className="text-xl font-semibold mb-4 flex items-center gap-2">
                   <Code className="w-5 h-5 text-primary" />
-                  Desenvolvedor Front-end
+                  Desenvolvedor Full stack
                 </h3>
                 <p className="text-muted-foreground mb-4">
                   Especializado em criar interfaces modernas e responsivas utilizando as mais 
