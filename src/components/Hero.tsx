@@ -1,6 +1,6 @@
-import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { Github, Linkedin, MapPin, ExternalLink } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { ExternalLink, Github, Linkedin, MapPin } from 'lucide-react';
 
 const Hero = () => {
   const scrollToSection = (sectionId: string) => {
@@ -57,6 +57,9 @@ const Hero = () => {
             <p className="text-lg text-muted-foreground mb-8 max-w-2xl">
               Desenvolvedor apaixonado por criar experiências digitais incríveis. 
               Especializado em React, NextJS e TailwindCSS.
+            </p>
+            <p className="text-lg text-muted-foreground mb-8 max-w-2xl">
+              esse texto foi adicionado dia 28 de agosto para o exercicio!
             </p>
 
             {/* Action Buttons */}
