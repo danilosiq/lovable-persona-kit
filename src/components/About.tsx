@@ -1,6 +1,6 @@
-import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Code, Palette, Users, Lightbulb } from 'lucide-react';
+import { Card, CardContent } from '@/components/ui/card';
+import { Code, Lightbulb, Palette, Users } from 'lucide-react';
 
 const About = () => {
   return (
@@ -14,6 +14,7 @@ const About = () => {
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Conheça um pouco mais sobre minha jornada, paixões e o que me motiva
             </p>
+
           </div>
 
           <div className="grid md:grid-cols-2 gap-8 mb-12">
@@ -22,7 +23,7 @@ const About = () => {
               <CardContent className="p-6">
                 <h3 className="text-xl font-semibold mb-4 flex items-center gap-2">
                   <Users className="w-5 h-5 text-primary" />
-                  Quem Sou Eu
+                  Quem Sou Eu HotFIX
                 </h3>
                 <p className="text-muted-foreground leading-relaxed">
                   Sou um jovem que vive intensamente tanto no universo online quanto no mundo artístico. 
